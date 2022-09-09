@@ -29,7 +29,7 @@ li a:hover {
 }
 
 img {
-    height: 100px;
-    width: 100px;
+    height: 350px;
+    width: 350px;
     z-index: 20;
 }
