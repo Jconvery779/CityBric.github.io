@@ -3,3 +3,8 @@ h1 {
     color: blue;
     text-align: centered;
 }
+
+li {
+    text-align: inline-block;
+    font-size: 40px;
+}
