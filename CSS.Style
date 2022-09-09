@@ -1,12 +1,12 @@
 h1 {
-    font-size: 300px;
+    font-size: 150px;
     color: blue;
     text-align: centered;
 }
 
 li {
     text-align: inline-block;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 img {
