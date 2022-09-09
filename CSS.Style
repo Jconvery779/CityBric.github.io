@@ -8,3 +8,9 @@ li {
     text-align: inline-block;
     font-size: 40px;
 }
+
+img {
+    height: 20px;
+    width: 20px;
+    z-index: 20;
+}
