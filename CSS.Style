@@ -1,7 +1,7 @@
 h1 {
     font-size: 150px;
     color: blue;
-    text-align: center;
+    display: center;
 }
 
 ul {
@@ -13,7 +13,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: center;
 }
 
 li a {
